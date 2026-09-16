@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rc_chuah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://raynersec.dpdns.org
+  * I am rc_chuah (https://keybase.io/rc_chuah) on keybase.
+  * I have a public key ASCUxSGLwwUdPVAflEl9c3akerjm1jBL9TevMUYhf0y1swo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010d72fc0051d5a83bc247fc08ac1c71bf92af66631508a3a6bbe75789bb576d1d0a",
+      "host": "keybase.io",
+      "kid": "012094c5218bc3051d3d501f94497d7376a47ab8e6d6304bf537af3146217f4cb5b30a",
+      "uid": "db03892f71ef4e682e8446c61cd84519",
+      "username": "rc_chuah"
+    },
+    "merkle_root": {
+      "ctime": 1789578088,
+      "hash": "10d165d4e6f18b583f103227745bb93476a74539ad9bbbc7a4a283889b076df8241793f60fe579a8cbccf4094e29ba6427d512b60d427a2ecd632a4bb0f87fc1",
+      "hash_meta": "5b60c6f167f213e434c04e0b4bb7cb39076386acf364e059560f8bd77ff4458d",
+      "seqno": 27776211
+    },
+    "service": {
+      "entropy": "DeERP/gyixltBkBFg2j2DdrR",
+      "hostname": "raynersec.dpdns.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.3"
+  },
+  "ctime": 1789578116,
+  "expire_in": 504576000,
+  "prev": "a6952a28550f77cd87a102de2a6f1843b142faa42ed261f3c749421bdd9988fc",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglMUhi8MFHT1QH5RJfXN2pHq45tYwS/U3rzFGIX9MtbMKp3BheWxvYWTESpcCGsQgppUqKFUPd82HoQLeKm8YQ7FC+qQu0mHzx0lCG92ZiPzEILZqay6fpBm/zb007zeBD07adhaEoyHSFO1bos75iwPtAgHCo3NpZ8RAI7mDD+cXvnlSpTuXvK486/UUZIYTWqSmI76UUaTYAXYKsuzWrkqjC/kt0r9ehNpO+XK6FLuLJIjzhotmW8XoBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDvg3PxnqHpRAPoz77eXT9+Rj+bxctdNpdNc485HmPSho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rc_chuah
+
+==================================================================
